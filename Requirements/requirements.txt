@@ -1,0 +1,12 @@
+boto3==1.9.40
+influxdb==5.2.0
+robotframework==3.1.1
+robotframework-rabbitmq==1.0.3
+robotframework-requests==0.5.0
+robotframework-seleniumlibrary==3.2.0
+robotframework-databaselibrary==1.2.0
+pykafka==2.8.0
+pyyaml==3.13
+psycopg2==2.7.7
+PyQt5==5.12.2
+PyQt5-sip==4.19.17
