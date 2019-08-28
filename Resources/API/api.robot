@@ -10,7 +10,7 @@ Library     string
 
 *** Variables ***
 #api variables
-${API}=  https://case-management-tst.am.wartsila.com/api
+${API}=  
 ${ALIAS}=  localhost
 
 #json content
